@@ -1,4 +1,4 @@
-# The Calculator is BUSTED!
+# The Calculator is ~BUSTED~ Fixed!
 
 This repo is based on the final calculator code that we finished in class.
 
